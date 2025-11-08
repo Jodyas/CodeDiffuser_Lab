@@ -368,4 +368,37 @@ dependencies:
   - s2n=1.0.10
   - s3transfer=0.6.2
   - scikit-image=0.19.3
-  - s
+  - s2n=1.0.10
+  - s3transfer=0.6.2
+  - scikit-image=0.19.3
+  - pip:
+    - opencv-contrib-python==4.9.0.80
+    - matplotlib==3.8.2
+    - dgl==1.1.3
+    - open3d==0.18.0
+    - scipy==1.12.0
+    - PyYAML==6.0.1
+    - lxml==5.1.0
+    - PyMCubes==0.1.4
+    - trimesh==4.0.0
+    - git+https://github.com/facebookresearch/segment-anything.git
+    - scikit-image==0.22.0
+    - transforms3d==0.4.1
+    - pyglet==1.5.27
+    - gdown==4.7.1
+    - git+https://github.com/WangYixuan12/GroundingDINO.git
+    - pyrender
+    - seaborn
+    - h5py
+    - progressbar2
+    - gdown
+    - gitpython
+    - git+https://github.com/cheind/py-thin-plate-spline
+    - hickle
+    - tensorboard
+    - numpy
+    - sapien==2.2.2
+    - pyperclip==1.8.2
+    - git+https://github.com/ChaoningZhang/MobileSAM.git
+    - openai
+    - urchin
