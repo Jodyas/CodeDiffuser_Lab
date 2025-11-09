@@ -67,7 +67,7 @@ For policy evaluation, the main function is in
 We use anaconda distribution for installation: 
 ```console
 conda env create -f environment.yml
-conda activate code_diffuser
+conda activate code_diffuser_lab
 cd diffusion_policy_code
 pip install -e d3fields_dev/
 pip install -e general_dp/

@@ -1,4 +1,4 @@
-name: code_diffuser
+name: code_diffuser_lab
 channels:
   - xformers
   - pytorch3d
