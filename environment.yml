@@ -402,3 +402,5 @@ dependencies:
     - git+https://github.com/ChaoningZhang/MobileSAM.git
     - openai
     - urchin
+    - wandb
+    - zarr
