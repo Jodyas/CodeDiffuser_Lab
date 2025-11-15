@@ -266,7 +266,7 @@ class Fusion:
         self.feat_backbone = feat_backbone
         if self.feat_backbone == "dinov2":
             self.dinov2_feat_extractor = torch.hub.load(
-                "facebookresearch/dinov2", "dinov2_vitl14"
+                "facebookresearch/dinov2:qasfb-patch-3", "dinov2_vitl14"
             ).to(self.device)
         else:
             raise NotImplementedError
