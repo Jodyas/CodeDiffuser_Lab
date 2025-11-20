@@ -445,7 +445,7 @@ def _convert_sapien_to_dp_replay(
                 fusion.clear_xmem_memory()
             print(f"Loading Error: {dataset_path}")
 
-    input("wait")
+    # input("wait") no need to interfere here
 
     def img_copy(zarr_arr, zarr_idx, hdf5_arr, hdf5_idx):
         try:
