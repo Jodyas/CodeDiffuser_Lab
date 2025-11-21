@@ -1,5 +1,5 @@
 import numpy as np
-
+import os
 
 class instruction_generater:
     def __init__(self, seed, keys, template_path, slackness_type) -> None:
@@ -162,7 +162,7 @@ if __name__ == "__main__":
     generater = instruction_generater(
         seed=4,
         keys=["mug", "branch"],
-        template_path="/home/neo/lyt_dp/diffusion/sapien_env/sapien_env/teleop/instruction_generate/template.json",
+        template_path=os.path.expanduser("~/CodeDiffuser_Lab/diffusion_policy_code/sapien_env/sapien_env/teleop/instruction_generate/template.json"),
         slackness_type=slackness_type,
     )
     descriptive_element = generater.from_config_to_string(config, mug_list)

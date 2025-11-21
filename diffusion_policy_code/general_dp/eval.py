@@ -148,7 +148,7 @@ def main(
 
     current_file_path = os.path.abspath(__file__)
     current_folder_path = os.path.dirname(current_file_path)
-    test_env_path = "/home/yitong/diffusion/diffusion_policy_code/eval_env" # os.path.join(current_folder_path, "eval_env")
+    test_env_path = os.path.expanduser("~/CodeDiffuser_Lab/diffusion_policy_code/eval_env")
 
     if test_env_path is None:
         sys.path.append(cfg.task.env_runner.dataset_dir)

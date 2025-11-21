@@ -1,4 +1,5 @@
 import sys
+import os
 from functools import cached_property
 from typing import Optional
 
@@ -159,7 +160,7 @@ class HangMugRLEnv(HangMugEnv, BaseRLEnv):
         self.generater = instruction_generater(
             seed=self.seed_idx,
             keys=["mug", "branch"],
-            template_path="/home/yitong/diffusion/diffusion_policy_code/d3fields_dev/d3fields/utils/instruction_generate/template.json",
+            template_path = os.path.expanduser("~/CodeDiffuser_Lab/diffusion_policy_code/d3fields_dev/d3fields/utils/instruction_generate/template.json"),
             slackness_type=slackness_type,
         )
         descriptive_element = self.generater.from_config_to_string(
