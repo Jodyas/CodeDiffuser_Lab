@@ -268,7 +268,7 @@ class SapienSeriesImageRunner(BaseImageRunner):
         self._quat_2_euler = _quat_2_euler
         self.abs_action = abs_action
         self.tqdm_interval_sec = tqdm_interval_sec
-        self.policy_keys = policy_keys # + ["embedding"]
+        self.policy_keys = policy_keys + ["embedding"]
         self.fusion = fusion
         self.output_type = output_type
         self.attention_mode = attention_mode
