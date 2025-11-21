@@ -126,6 +126,14 @@ class VideoRecordingWrapper(gym.Wrapper):
 
         single_view = view_list[0]
         single_view = cv2.pyrUp(single_view)
+
+        # make two image same size
+        if single_view.shape[0] != o3d_image.shape[0]:
+            target_height = single_view.shape[0] # get the height of "single_view"
+            target_width = int(o3d_image.shape[1] * target_height / o3d_image.shape[0]) # compute target width to maintain aspect ratio
+            o3d_image = cv2.resize(o3d_image, (target_width, target_height)) # resize o3d_image
+
+
         record_image = np.concatenate([single_view, o3d_image], axis=1)
 
         if self.real_time_vis:
