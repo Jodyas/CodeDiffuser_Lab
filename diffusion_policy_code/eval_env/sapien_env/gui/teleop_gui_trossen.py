@@ -91,11 +91,6 @@ TABLE_TOP_CAMERAS = {
 #     ),
 # }
 
-# in ~\CodeDiffuser_Lab\diffusion_policy_code\general_dp\diffusion_policy\env\sapien_env\sapien_env_wrapper.py
-# has "from diffusion_policy.common.data_utils import d3fields_proc_infer, d3fields_proc" but not TABLE_TOP_CAMERAS in here
-# so add this line
-TABLE_TOP_CAMERAS = TABLE_TOP_CAMERAS_DEFAULT 
-
 META_CAMERA = dict(
     position=np.array([0.5, 0.5, 0.5]),
     look_at_dir=np.array([-0.5, -0.5, -0.4]),
