@@ -1,0 +1,4383 @@
+{
+  "blue mug": {
+    "description": [
+      "blue and white mug on wooden stand",
+      "blue ceramic coffee mug on the left side of the table",
+      "blue ceramic cup on right side of table",
+      "blue ceramic mug",
+      "blue coffee cup on a table",
+      "blue coffee cup on a wooden stand",
+      "blue coffee mug on the table",
+      "blue cup",
+      "blue cup on a stand",
+      "blue cup on a stand on the right",
+      "blue cup on a table",
+      "blue cup on a wooden board",
+      "blue cup on a wooden stand",
+      "blue cup on a wooden surface",
+      "blue cup on a wooden table",
+      "blue cup on paper",
+      "blue cup on the table",
+      "blue cup with a handle in the back",
+      "blue cup with a handle on the right side of the table.",
+      "blue cup with beige handle on a white surface",
+      "blue cup with beige handle on paper",
+      "blue cup with floral pattern",
+      "blue cup with handle",
+      "blue cup with handle on white paper",
+      "blue cup with handle resting on a white paper",
+      "blue cup with purple handle on beige paper",
+      "blue mug on a stand",
+      "blue mug on a white mat on the table",
+      "blue mug on a white paper towel",
+      "blue mug on the right",
+      "blue mug on the table",
+      "blue mug on wooden stand with brown accents",
+      "blue mug with handle on a wooden board",
+      "blue mug with handle on counter",
+      "blue mug with handle on the table",
+      "blue mug with handle on white paper",
+      "blue mug with purple handle on the table",
+      "cup on the table",
+      "green cup on a coaster",
+      "green mug on the right",
+      "green-cupped mug on the table",
+      "light blue ceramic cup on a wooden board",
+      "light blue ceramic cup on beige surface",
+      "light blue ceramic cup on the wooden table",
+      "light blue ceramic cup on white paper",
+      "light blue coffee cup on a white placemat on the right",
+      "light blue coffee mug on a wooden table",
+      "light blue cup",
+      "light blue cup on a black circular base",
+      "light blue cup on a pad on the table",
+      "light blue cup on a stand",
+      "light blue cup on a white paper on the table.",
+      "light blue cup on a wooden board",
+      "light blue cup on a wooden coaster",
+      "light blue cup on a wooden surface",
+      "light blue cup on a wooden table",
+      "light blue cup on paper on wooden table",
+      "light blue cup on stand",
+      "light blue cup on the table",
+      "light blue cup on the wooden table",
+      "light blue cup on wooden mat",
+      "light blue cup with a white handle on the tray",
+      "light blue mug",
+      "light blue mug on a wooden surface",
+      "light blue mug on a wooden table",
+      "light blue mug on a yellow cutting board",
+      "light blue mug on the table",
+      "light blue mug on the upper-right table",
+      "light blue mug on wooden platform",
+      "light blue mug on wooden table",
+      "light blue mug positioned on a paper towel.",
+      "light blue mug upside down on a white paper on the table",
+      "light blue mug with handle",
+      "light blue mug with handle on the yellow surface",
+      "light blue mug with pink handle on the right",
+      "light green mug on the table",
+      "lighter blue mug on the right",
+      "pale blue cup on a white paper",
+      "pink cup on wooden table",
+      "teal ceramic mug on the table",
+      "teal cup with handle on the table",
+      "teal cup with handle on white paper",
+      "teal mug on a wooden stand",
+      "teal mug on a wooden table",
+      "teal mug on the left",
+      "turquoise ceramic mug on stand",
+      "turquoise mug on wooden stand"
+    ],
+    "relations": [
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "to the left of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "to left of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "attached to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "above",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "behind",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "paired with",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "right of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "used for displaying",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "to the left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "between",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "resting on",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "right of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "positioned near",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "base"
+      }
+    ]
+  },
+  "pink mug": {
+    "description": [
+      "beige paper placed on table",
+      "cup on a white paper",
+      "light pink cup on a white paper coaster",
+      "pink and white mugs on the table",
+      "pink ceramic coffee mug on the right side of the table",
+      "pink ceramic cup on beige surface",
+      "pink ceramic cup on right side of table",
+      "pink ceramic mug",
+      "pink ceramic mug on a paper plate",
+      "pink ceramic mug on stand",
+      "pink ceramic mug on the white paper on the wooden table",
+      "pink coffee cup on a white paper",
+      "pink coffee mug",
+      "pink coffee mug on a white mat",
+      "pink coffee mug on a white paper on the left",
+      "pink coffee mug on paper",
+      "pink coffee mug on white paper",
+      "pink coffee mug with a handle on a white paper pad",
+      "pink coffee mug with handle on the white surface",
+      "pink cup and light blue mug on a wooden surface",
+      "pink cup in a pale pink cup holder on a white paper",
+      "pink cup on a white mat",
+      "pink cup on a white paper",
+      "pink cup on a white paper mat",
+      "pink cup on a white paper on a table",
+      "pink cup on a white paper on the table",
+      "pink cup on a white paper on the table.",
+      "pink cup on a white paper pad",
+      "pink cup on a white paper plate",
+      "pink cup on a white paper towel",
+      "pink cup on a white paper towel on a wooden table",
+      "pink cup on the white paper",
+      "pink cup on white paper on beige surface",
+      "pink cup on white paper on wooden table",
+      "pink cup with a handle on the table",
+      "pink cup with beige handle on white surface",
+      "pink cup with handle on a white paper",
+      "pink cup with handle on a white paper below another pink cup.",
+      "pink cup with handle on counter",
+      "pink cup with handle on white paper",
+      "pink cup with handle, placed on a white paper square on the lower-right",
+      "pink cup with pink handle on a white paper on the table",
+      "pink cup with pink handle on a white paper pad",
+      "pink cup with purple handle",
+      "pink mug",
+      "pink mug and light blue mug on a white paper",
+      "pink mug in pink, light purple color on paper towel.",
+      "pink mug in purple handle on a white paper",
+      "pink mug in the center",
+      "pink mug on a paper mat",
+      "pink mug on a paper on the table",
+      "pink mug on a piece of paper",
+      "pink mug on a white mat on the table",
+      "pink mug on a white paper",
+      "pink mug on a white paper in the front",
+      "pink mug on a white paper on the table",
+      "pink mug on a white paper towel",
+      "pink mug on a white placemat on the left",
+      "pink mug on beige paper",
+      "pink mug on beige paper on wooden board",
+      "pink mug on paper",
+      "pink mug on paper on a wooden table",
+      "pink mug on paper on wooden platform",
+      "pink mug on paper on wooden table",
+      "pink mug on paper square",
+      "pink mug on the table",
+      "pink mug on the white mat",
+      "pink mug on white mat",
+      "pink mug on white paper",
+      "pink mug on white paper pad",
+      "pink mug sitting on a white paper",
+      "pink mug with a handle on the lower-right table",
+      "pink mug with a purple handle on a white paper on the tray",
+      "pink mug with handle and light pink interior",
+      "pink mug with handle on a wooden board",
+      "pink mug with handle on a wooden mat",
+      "pink mug with handle on white paper",
+      "pink mug with handles on a white paper",
+      "pink mug with light handle and pink interior",
+      "pink mug with pink handle",
+      "pink mug with purple handle on paper"
+    ],
+    "relations": [
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "to the left of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "above",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "paired with",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "right of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "used for holding",
+        "object": "pink mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "used for displaying",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "to the left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "between",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "next to",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "next to",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      }
+    ]
+  },
+  "right-up branch": {
+    "description": [
+      "angled arm of wooden easel",
+      "clamp bar part of a clamping mechanism",
+      "curved stick part of easel",
+      "curved wooden stick attached to a stand",
+      "curved wooden stick with holes, part of a stand",
+      "handle in brown color on the wooden stand.",
+      "handle of a wooden skewer.",
+      "handle of wooden easel",
+      "handle on a wooden stand",
+      "hook attached to a wooden easel on the right",
+      "hook attached to a wooden easel.",
+      "hook on left side of rack",
+      "hook on the stand",
+      "left wooden armrest of a chair",
+      "left wooden hook",
+      "leftmost wooden handle of the easel",
+      "right bristle of wooden easel",
+      "right hook of the wooden easel",
+      "right hook on the easel",
+      "right wooden arm of stand",
+      "right wooden arm of the easel",
+      "right wooden easel leg",
+      "right wooden handle of the lamp stand",
+      "right wooden hook mounted on the stand",
+      "right wooden hook on the easel",
+      "right wooden hook on the easel stand",
+      "right wooden peg in stand",
+      "right wooden stand supporting a lamp on the table",
+      "right wooden stick",
+      "right wooden stick of easel",
+      "right wooden support rod for stand",
+      "right-hand wooden grip of stand",
+      "rightmost curved wooden stick",
+      "rightmost hook attached to wooden stand",
+      "rightmost stick on the stand",
+      "rightmost wooden arm of easel",
+      "rightmost wooden hook on easel",
+      "rightmost wooden spindles",
+      "rightmost wooden stick mounted on stand",
+      "rightmost wooden stick mounted on the easel",
+      "rightmost wooden support with circular rings",
+      "small arm of easel",
+      "small hook on the stand",
+      "stick in brown holder.",
+      "stick in brown stand",
+      "stick part of the wooden Y-shape",
+      "stick part of wooden stand",
+      "stick y poofy top of a wooden easel.",
+      "support post of a wooden easel",
+      "tip of stand",
+      "top cap of easel with wooden supports",
+      "top of easel with wooden arms",
+      "top of the easel with slots for holding sticks",
+      "top of wooden easel arm",
+      "top right hook attached to easel",
+      "top right wooden stick",
+      "top right wooden stick with a hole",
+      "top shelf of the easel holding small cups",
+      "top wooden stick in the easel",
+      "top-left claw of wooden easel",
+      "top-left wooden peg",
+      "top-left wooden peg mounted on a stand",
+      "top-left wooden stand with cups on top",
+      "top-right branch of the easel",
+      "top-right branch part of the easel.",
+      "top-right handle of the easel",
+      "top-right stick of a wooden pole",
+      "top-right stick with holes in easel-like structure",
+      "top-right wooden handle of stand",
+      "top-right wooden stick of the easel",
+      "top-right wooden stick with a handle supporting the stand",
+      "top-right wooden stick with a round top",
+      "topmost left handle of wooden easel",
+      "upper hook on a wooden easel",
+      "upper hook on the stick-like easel",
+      "upper wooden stick of the easel stand",
+      "upper-left arm of the easel",
+      "upper-left wooden hook attached to stand",
+      "upper-left wooden stick of stand",
+      "upper-right wooden stake in a wooden stick stand",
+      "upper-right wooden stick arm of a voting machine.",
+      "uppermost hook in the wooden easel",
+      "uppermost hook in wooden easel",
+      "uppermost wooden peg in a stand",
+      "wooden arm of the easel",
+      "wooden clamp on the left side of the wooden base",
+      "wooden easel stand with hooks",
+      "wooden handle of the object",
+      "wooden handle of the stand",
+      "wooden hook in the middle",
+      "wooden object with multiple hooks",
+      "wooden pegs supporting stand",
+      "wooden stand with branches for painting",
+      "wooden stand with three prongs",
+      "wooden stick in the stand",
+      "wooden stick of a wooden easel",
+      "wooden stick with holes for fingers",
+      "wooden support rod part of easel"
+    ],
+    "relations": [
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "attached to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "next to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supports",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "next to",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "used for holding",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting on top of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      }
+    ]
+  },
+  "right-down branch": {
+    "description": [
+      "angled arm of wooden easel",
+      "arm of wooden easel",
+      "branch in wooden easel",
+      "center wooden support rod for stand",
+      "clamp bar part of a setup",
+      "clamp mechanism on the wooden easel",
+      "curved wooden stick attached to a stand",
+      "easel with two sticks",
+      "easel with two wooden sticks",
+      "handle in tan, long , wooden.",
+      "handle of a wooden stand.",
+      "handle on the wooden stand",
+      "hook attached to a wooden easel.",
+      "hook on a wooden easel near the center",
+      "hook on right side of rack",
+      "hook on the stand",
+      "left wooden arm of stand",
+      "left wooden handle of the lamp stand",
+      "left wooden hook on the easel",
+      "left wooden stick",
+      "medium wooden easel with three shelves",
+      "middle arm of the easel",
+      "middle bristle of wooden easel",
+      "middle claw of wooden easel",
+      "middle hook in wooden easel",
+      "middle hook of the wooden easel",
+      "middle hook on a wooden easel",
+      "middle hook on the easel",
+      "middle hook on wooden stand",
+      "middle left hook in the wooden easel",
+      "middle left wooden stick",
+      "middle left wooden stick with a hole",
+      "middle right armrest of wooden easel",
+      "middle stick on the stand",
+      "middle wooden arm of the easel",
+      "middle wooden armrest of a chair",
+      "middle wooden bracket on the stand",
+      "middle wooden easel leg",
+      "middle wooden grip of stand",
+      "middle wooden hook on easel",
+      "middle wooden hook on the easel stand",
+      "middle wooden peg",
+      "middle wooden peg in a stand",
+      "middle wooden peg in stand",
+      "middle wooden stand supporting a lamp on the table",
+      "middle wooden stand with cups on top",
+      "middle wooden stick arm of a voting machine.",
+      "middle wooden stick mounted on stand",
+      "middle wooden stick of easel",
+      "middle wooden stick of stand",
+      "middle wooden stick of the easel",
+      "middle wooden stick part of the easel",
+      "middle wooden stick with a handle supporting the stand",
+      "middle wooden support with circular rings",
+      "middle-left handle of the easel",
+      "middle-left stick of a wooden stand",
+      "middle-left wooden arm of easel",
+      "middle-left wooden stick of the easel",
+      "middle-left wooden stick with a round top",
+      "rightmost left handle of wooden easel",
+      "rightmost wooden handle of the easel",
+      "second spindles from right",
+      "second wooden hook on left",
+      "second wooden stick from the right",
+      "second-middle wooden handle of stand",
+      "small wooden hook",
+      "small wooden support bar of a stand",
+      "stick in tan holder",
+      "stick on the easel.",
+      "stick part of easel",
+      "stick part of the wooden Y-shape",
+      "stick part of wooden stand",
+      "stick y poofy top of a wooden easel.",
+      "support post in wooden easel",
+      "top middle hook attached to easel",
+      "top-center wooden peg attached to a stand",
+      "top-left branch of the easel",
+      "top-middle branch part of the easel.",
+      "top-middle stick with holes in easel-like structure",
+      "upper hook on the stick-like easel",
+      "upper wooden stick of the easel stand",
+      "upper-middle wooden hook attached to stand",
+      "upper-middle wooden stake in a wooden stand",
+      "upper-right wooden easel support with two caps",
+      "wooden easel stand with hooks",
+      "wooden easel supporting a stick",
+      "wooden handle of stand",
+      "wooden handle of the object",
+      "wooden handle of the stand",
+      "wooden handle part of the easel",
+      "wooden hook on the right",
+      "wooden pegs supporting stand",
+      "wooden spike on a stand",
+      "wooden stand supporting the easel",
+      "wooden stick in the stand",
+      "wooden stick part of easel",
+      "wooden stick with a round head, part of an easel",
+      "wooden stick with holes, part of a stand",
+      "wooden stick with hooks",
+      "wooden support rod part of easel"
+    ],
+    "relations": [
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supports",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "underneath",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "next to",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "next to",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "made of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "has an easel foot for holding easel",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "attached to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "resting on",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      }
+    ]
+  },
+  "left-down branch": {
+    "description": [
+      "angled arm of wooden easel",
+      "bottom claw of wooden easel",
+      "bottom left hook on easel",
+      "bottom left wooden stick with a hole",
+      "bottom-left handle of the easel",
+      "bottom-left stick of a wooden stand",
+      "bottom-left stick with holes in easel-like structure",
+      "bottom-left wooden stick of the easel",
+      "bottom-left wooden stick with a handle supporting the stand",
+      "bottom-right wooden peg on a stand",
+      "bottom-right wooden stand with cups on top",
+      "bottom-right wooden stick with a round top",
+      "branch in wooden easel",
+      "brown wooden hook",
+      "clamp bar part of a setup",
+      "curved wooden stick attached to a stand",
+      "easel with brown sticks and wooden stand",
+      "easel with sticks and cups",
+      "far left handle of wooden easel",
+      "handle in brown color on the left side of the wooden stand.",
+      "handle in tan, long , wooden.",
+      "handle of the wooden stand",
+      "hook attached to a wooden easel on the left",
+      "hook of a wooden easel.",
+      "hook on the stand",
+      "left bristle of wooden easel",
+      "left hook of the wooden easel",
+      "left hook on the easel",
+      "left spindles for pouring water",
+      "left wooden arm of the easel",
+      "left wooden easel with three shelves",
+      "left wooden hook on the easel stand",
+      "left wooden hook on the stand",
+      "left wooden peg",
+      "left wooden peg in stand",
+      "left wooden stand supporting a lamp on the table",
+      "left wooden stick of easel",
+      "left wooden support rod for stand",
+      "left-hand wooden grip of stand",
+      "leftmost curved wooden stick",
+      "leftmost hook in wooden easel",
+      "leftmost stick on the stand",
+      "leftmost wooden arm of easel",
+      "leftmost wooden easel",
+      "leftmost wooden handle of the easel",
+      "leftmost wooden hook on easel",
+      "leftmost wooden stick",
+      "leftmost wooden stick mounted on stand",
+      "leftmost wooden stick part of the easel",
+      "leftmost wooden support with circular rings",
+      "lower hook on a wooden easel",
+      "lower wooden stick of the easel stand",
+      "lower-left arm of the easel",
+      "lower-left hook in the wooden easel",
+      "lower-left wooden hook attached to stand",
+      "lower-left wooden stake in a stand",
+      "lower-left wooden stick arm of a voting machine.",
+      "lowermost wooden peg",
+      "middle hook on the stick-like easel",
+      "middle right wooden stick",
+      "middle wooden arm of stand",
+      "middle wooden easel leg",
+      "middle wooden hook on the easel",
+      "middle-left wooden handle of stand",
+      "right wooden armrest of a chair",
+      "right wooden hook",
+      "second left hook on wooden stand",
+      "small arm of easel",
+      "small left wooden handle of the lamp stand",
+      "stick in brown stand.",
+      "stick in tan holder",
+      "stick on a stand.",
+      "stick part of easel",
+      "stick part of the wooden Y-shape",
+      "stick part of wooden stand",
+      "support post in wooden easel",
+      "top left armrest of wooden easel",
+      "top-center branch of the easel",
+      "top-left branch part of the easel.",
+      "top-left wooden easel support with two caps",
+      "upper-middle wooden stick of stand",
+      "wooden clamp attached to rack",
+      "wooden easel stand with hooks",
+      "wooden easel with clamps",
+      "wooden easel with three supports",
+      "wooden handle of stand",
+      "wooden handle of the object",
+      "wooden handle of the stand",
+      "wooden handle on the easel",
+      "wooden hook on the left",
+      "wooden pegs supporting stand",
+      "wooden spike on a stand",
+      "wooden stick in the stand",
+      "wooden stick part of easel",
+      "wooden stick with a round top, part of a stand",
+      "wooden stick with holes, part of a stand",
+      "wooden support bar of a rack, part of the setup for crafting or display",
+      "wooden support rod part of easel"
+    ],
+    "relations": [
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "on top of a",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "underneath",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "next to",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "attached to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "made of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "has",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "attached to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "part of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting on top of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      }
+    ]
+  },
+  "left-up branch": {
+    "description": [
+      "angled arm of wooden easel",
+      "arm of wooden easel",
+      "bottom-right claw of wooden easel",
+      "curved stick part of easel",
+      "curved wooden stick attached to a stand",
+      "easel with wooden sticks",
+      "end of wooden easel arm",
+      "frontmost easel post with wooden handle",
+      "handle in brown color of the wooden hanger.",
+      "handle in tan, long , wooden.",
+      "hook attached to the wooden stand",
+      "hook of a wooden easel.",
+      "hook on the easel on the left side",
+      "hook on the stand",
+      "left bristle of wooden easel",
+      "left wooden easel with multiple hooks",
+      "left wooden handle of the lamp stand",
+      "leftmost hook on wooden stand",
+      "leftmost wooden arm of easel",
+      "leftmost wooden stick",
+      "middle wooden easel",
+      "middle wooden handle of the easel",
+      "middle wooden hook",
+      "middle wooden hook attached to stand",
+      "middle-left wooden peg on a stand",
+      "right wooden armrest of a chair",
+      "second spindles from left",
+      "stick .",
+      "stick in wooden arm of a gauge",
+      "stick part of the wooden Y-shape",
+      "stick part of wooden stand",
+      "stick y poofy top of a wooden easel.",
+      "support post of a wooden easel",
+      "thin wooden easel",
+      "top hook in wood easel",
+      "top hook of the wooden easel",
+      "top hook on the easel",
+      "top left hook on easel",
+      "top left wooden stick with a hole",
+      "top left wooden stick with pegs",
+      "top part of wooden stand",
+      "top wooden arm of the easel",
+      "top wooden hook on the easel",
+      "top wooden hook on the easel stand",
+      "top wooden peg in a stand",
+      "top wooden peg in stand",
+      "top wooden stand supporting a lamp on the table",
+      "top wooden stick",
+      "top wooden stick of easel",
+      "top wooden support with circular rings",
+      "top-left branch part of the easel.",
+      "top-left handle of the easel",
+      "top-left stick of a wooden stand",
+      "top-left stick with holes in easel-like structure",
+      "top-left wooden handle of stand",
+      "top-left wooden stick of the easel",
+      "top-leftmost branch of the easel",
+      "top-middle wooden peg",
+      "top-middle wooden stick with a handle supporting the stand",
+      "top-middle wooden stick with a round top",
+      "top-right wooden easel support with two caps",
+      "top-right wooden stand",
+      "topmost hook in the wooden easel",
+      "topmost right handle of wooden easel",
+      "upper clamp on a table",
+      "upper hook on the easel for holding objects",
+      "upper hook on the stick-like easel",
+      "upper leftmost wooden stick part of the easel",
+      "upper wooden arm of stand",
+      "upper wooden easel leg",
+      "upper-left stick on the stand",
+      "upper-left wooden hook on the stand",
+      "upper-left wooden stake in the stand",
+      "upper-left wooden stick arm of a voting machine.",
+      "upper-middle wooden stick of stand",
+      "upper-right arm of the easel",
+      "wooden arm of easel",
+      "wooden clamp at the upper-left",
+      "wooden clamp on rack",
+      "wooden easel stand with hooks",
+      "wooden easel supporting items",
+      "wooden easel with sticks",
+      "wooden handle of the easel",
+      "wooden handle of the object",
+      "wooden handle of the stand",
+      "wooden hook at the top",
+      "wooden object with multiple hooks",
+      "wooden pegs supporting stand",
+      "wooden spike on a stand",
+      "wooden stand with three rods for display",
+      "wooden stick in easel",
+      "wooden stick in the stand",
+      "wooden stick mounted on stand",
+      "wooden stick of the easel supporting brushes",
+      "wooden stick part of easel",
+      "wooden stick with holes, part of a stand",
+      "wooden support bar of a stand",
+      "wooden support rod part of easel",
+      "wooden tool holder with three tools hanging"
+    ],
+    "relations": [
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "next to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "next to",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "attached to",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "used for displaying",
+        "object": "blue mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "used for displaying",
+        "object": "pink mug"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "part of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "left of",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "has",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "right of",
+        "object": "left-up branch"
+      }
+    ]
+  },
+  "base": {
+    "description": [
+      "base of a wooden easel on a wooden table",
+      "base of wooden easel",
+      "base of wooden stand with hooks",
+      "black base for wooden stands supporting a lamp",
+      "black base of a wooden easel",
+      "black base of a wooden easel supporting a paintbrush holder",
+      "black base of a wooden easel with hooks.",
+      "black base of a wooden stand",
+      "black base of a wooden stand with three tool holders",
+      "black base of easel",
+      "black base of easel on wooden table",
+      "black base of easel supporting wooden easel",
+      "black base of stand",
+      "black base of the easel",
+      "black base of the easel with hooks",
+      "black base of the lamp stand",
+      "black base of the object",
+      "black base of the stand",
+      "black base of the wooden chair",
+      "black base of the wooden pole",
+      "black base of the wooden stand",
+      "black base of wooden easel",
+      "black base of wooden pegs",
+      "black base of wooden stand",
+      "black base plate supporting a wooden easel",
+      "black base supporting easel",
+      "black base supporting the easel",
+      "black circular base of easel",
+      "black circular base of stand",
+      "black circular base of the easel",
+      "black circular base of the easel stand",
+      "black circular base of the wooden stand",
+      "black circular base supporting the stand",
+      "black circular base supporting the stick and stand",
+      "black circular stand supporting a wooden easel",
+      "black circular stand with wooden pegs",
+      "black cylindrical base of easel",
+      "black round base of easel",
+      "black round base of the easel",
+      "black round base supporting the stand",
+      "black stand base for easel",
+      "black stand for easel",
+      "black stand supporting a stick",
+      "black stand supporting the easel",
+      "black stand with multiple sticks",
+      "blue base of the easel supporting a wooden pole",
+      "bottom stand in black, metal, and wood",
+      "bottom wooden easel base",
+      "brown base of the wooden stand",
+      "circular base of a wooden stand",
+      "circular base of the easel",
+      "circular base of wooden easel",
+      "circular base of wooden stand",
+      "dark base of the easel",
+      "dark gray base of the easel",
+      "dark gray base of the stand",
+      "dark stand supporting the wooden easel",
+      "dark-colored stand under the wooden sticks",
+      "lower-middle wooden stand base",
+      "round black base of easel",
+      "round black base of the easel",
+      "round black base of the wooden Y-shape",
+      "round black base of wooden stand",
+      "round black base supporting a wooden arm rest",
+      "round dark base supporting a wooden arm.",
+      "small base of a wooden stand on the table",
+      "stand supporting wooden easel",
+      "support stand with arms for cups",
+      "wood base of the easel",
+      "wooden easel base",
+      "wooden stand supporting hooks",
+      "wooden stand with multiple grips and black base",
+      "wooden stand with pegs",
+      "wooden stand with three hooks",
+      "wooden stick base supporting the easel.",
+      "wooden support base for stand"
+    ],
+    "relations": [
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "to left of",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "on top of a",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "attached to",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "behind",
+        "object": "blue mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "underneath",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "underneath",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "has an easel foot for holding easel",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "supported by",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "has",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "between",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "between",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "resting on",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "attached to",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-up branch"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "supporting",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "resting on",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "left-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "right of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supports",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-up branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "positioned near",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting on top of",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting on top of",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "on top of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "blue mug"
+      },
+      {
+        "subject": "base",
+        "predicate": "supporting",
+        "object": "pink mug"
+      },
+      {
+        "subject": "right-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "left-down branch",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "left of",
+        "object": "pink mug"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "above",
+        "object": "base"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-up branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "right-down branch"
+      },
+      {
+        "subject": "base",
+        "predicate": "below",
+        "object": "left-down branch"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      },
+      {
+        "subject": "blue mug",
+        "predicate": "behind",
+        "object": "base"
+      },
+      {
+        "subject": "pink mug",
+        "predicate": "in front of",
+        "object": "base"
+      }
+    ]
+  }
+}
